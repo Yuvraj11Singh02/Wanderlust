@@ -21,7 +21,6 @@ Wanderlust is a full-stack web application built with **Node.js, Express.js, Mon
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB with Mongoose
 - **Frontend:** EJS templating, HTML, CSS, JavaScript
-- **Authentication:** Passport.js (if implemented)
 - **Other Tools:** VS Code, Git, GitHub
 
 ---
